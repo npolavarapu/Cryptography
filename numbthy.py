@@ -1,13 +1,5 @@
 ######################################################################################
 # NUMBTHY.PY
-# Basic Number Theory functions implemented in Python
-# Note: Currently requires Python 2.x (uses +=, %= and other 2.x-isms)
-# Note: Currently requires Python 2.3 (uses implicit long integers - could be back-ported though)
-# Note: Not yet tested with Python 3.x
-# Author: Robert Campbell, <campbell@math.umbc.edu>
-# Date: 24 Nov, 2012
-# Version 0.6
-# License: Simplified BSD (see details at bottom)
 ######################################################################################
 """Basic number theory functions.
    Functions implemented are:
